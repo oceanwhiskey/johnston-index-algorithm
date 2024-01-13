@@ -1,0 +1,147 @@
+\begin{thebibliography}{18}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Alonso-Meijide et~al.(2008)Alonso-Meijide, Casas-Méndez, Holler \&
+  Lorenzo-Freire}]{Alonso-Meijide2008}
+\bibinfo{author}{Alonso-Meijide, J.~M.}, \bibinfo{author}{Casas-Méndez, B.},
+  \bibinfo{author}{Holler, M.}, \& \bibinfo{author}{Lorenzo-Freire, S.}
+  (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{Computing power indices: Multilinear extensions and
+  new characterizations}.
+\newblock {\it \bibinfo{journal}{European Journal of Operational Research}\/},
+  {\it \bibinfo{volume}{188}\/}, \bibinfo{pages}{540--554}.
+%Type = Article
+\bibitem[{{Banzhaf III.}(1965)}]{Banzhaf1965}
+\bibinfo{author}{{Banzhaf III.}, J.~F.} (\bibinfo{year}{1965}).
+\newblock \bibinfo{title}{Weighted voting doesn't work: A mathematical
+  analysis}.
+\newblock {\it \bibinfo{journal}{Rutgers Law Review}\/},  {\it
+  \bibinfo{volume}{19}\/}, \bibinfo{pages}{317--343}.
+%Type = Book
+\bibitem[{Brams(2003)}]{Brams1990}
+\bibinfo{author}{Brams, S.~J.} (\bibinfo{year}{2003}).
+\newblock {\it \bibinfo{title}{Negotiation games: applying game theory to
+  bargaining and arbitration}\/}.
+\newblock (\bibinfo{edition}{2nd} ed.).
+\newblock \bibinfo{publisher}{Routledge}.
+%Type = Article
+\bibitem[{Deegan \& Packel(1978)}]{Deegan1978}
+\bibinfo{author}{Deegan, J.}, \& \bibinfo{author}{Packel, E.~W.}
+  (\bibinfo{year}{1978}).
+\newblock \bibinfo{title}{A new index of power for simple $n$-person games}.
+\newblock {\it \bibinfo{journal}{International Journal of Game Theory}\/},
+  {\it \bibinfo{volume}{7}\/}, \bibinfo{pages}{113--123}.
+%Type = Book
+\bibitem[{Felsenthal \& Machover(1998)}]{FelsenthalMachover1998}
+\bibinfo{author}{Felsenthal, D.~S.}, \& \bibinfo{author}{Machover, M.}
+  (\bibinfo{year}{1998}).
+\newblock {\it \bibinfo{title}{The Measurement of Voting Power: Theory and
+  Practice, Problems and Paradoxes.}\/}.
+\newblock \bibinfo{address}{Cheltenham}: \bibinfo{publisher}{Edward Elgar}.
+%Type = Article
+\bibitem[{Freixas \& Marciniak(2013)}]{Freixas2013}
+\bibinfo{author}{Freixas, J.}, \& \bibinfo{author}{Marciniak, D.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{Egalitarian property for power indices}.
+\newblock {\it \bibinfo{journal}{Social Choice and Welfare}\/},  {\it
+  \bibinfo{volume}{40}\/}, \bibinfo{pages}{207--227}.
+%Type = Article
+\bibitem[{Freixas et~al.(2012)Freixas, Marciniak \& Pons}]{Freixas2012}
+\bibinfo{author}{Freixas, J.}, \bibinfo{author}{Marciniak, D.}, \&
+  \bibinfo{author}{Pons, M.} (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{On the ordinal equivalence of the johnston, banzhaf
+  and shapley power indices}.
+\newblock {\it \bibinfo{journal}{European Journal of Operational Research}\/},
+  {\it \bibinfo{volume}{216}\/}, \bibinfo{pages}{367--375}.
+%Type = Article
+\bibitem[{Hirokawa \& Vlach(2006)}]{Hirokawa2006}
+\bibinfo{author}{Hirokawa, M.}, \& \bibinfo{author}{Vlach, M.}
+  (\bibinfo{year}{2006}).
+\newblock \bibinfo{title}{Power analysis of voting by count and account}.
+\newblock {\it \bibinfo{journal}{Kybernetika}\/},  {\it
+  \bibinfo{volume}{42}\/}, \bibinfo{pages}{483--493}.
+%Type = Article
+\bibitem[{Johnston(1978)}]{Johnston1978}
+\bibinfo{author}{Johnston, R.} (\bibinfo{year}{1978}).
+\newblock \bibinfo{title}{On the measurement of power: Some reactions to
+  laver}.
+\newblock {\it \bibinfo{journal}{Environment and Planning A}\/},  {\it
+  \bibinfo{volume}{10}\/}, \bibinfo{pages}{907--914}.
+%Type = Article
+\bibitem[{Kurz(2016)}]{Kurz2016}
+\bibinfo{author}{Kurz, S.} (\bibinfo{year}{2016}).
+\newblock \bibinfo{title}{The inverse problem for power distributions in
+  committees}.
+\newblock {\it \bibinfo{journal}{Social Choice and Welfare}\/},  {\it
+  \bibinfo{volume}{47}\/}, \bibinfo{pages}{65--88}.
+%Type = Article
+\bibitem[{Lorenzo-Freire et~al.(2007)Lorenzo-Freire, Alonso-Meijide,
+  Casas-Méndez \& Fiestras-Janeiro}]{Alonso-Meijide2007}
+\bibinfo{author}{Lorenzo-Freire, S.}, \bibinfo{author}{Alonso-Meijide, J.~M.},
+  \bibinfo{author}{Casas-Méndez, B.}, \& \bibinfo{author}{Fiestras-Janeiro,
+  M.} (\bibinfo{year}{2007}).
+\newblock \bibinfo{title}{Characterizations of the deegan--packel and johnston
+  power indices}.
+\newblock {\it \bibinfo{journal}{European Journal of Operational Research}\/},
+  {\it \bibinfo{volume}{177}\/}, \bibinfo{pages}{431--444}.
+%Type = Article
+\bibitem[{Mercik(2009)}]{Mercik2009}
+\bibinfo{author}{Mercik, J.} (\bibinfo{year}{2009}).
+\newblock \bibinfo{title}{A priori veto power of the president of poland}.
+\newblock {\it \bibinfo{journal}{Operations Research and Decisions}\/},  {\it
+  \bibinfo{volume}{19}\/}, \bibinfo{pages}{61--75}.
+%Type = Article
+\bibitem[{Owen(1972)}]{Owen1972}
+\bibinfo{author}{Owen, G.} (\bibinfo{year}{1972}).
+\newblock \bibinfo{title}{Multilinear extensions of games}.
+\newblock {\it \bibinfo{journal}{Management Science}\/},  {\it
+  \bibinfo{volume}{18}\/}, \bibinfo{pages}{64--79}.
+%Type = Article
+\bibitem[{Penrose(1946)}]{Penrose1946}
+\bibinfo{author}{Penrose, L.~S.} (\bibinfo{year}{1946}).
+\newblock \bibinfo{title}{The elementary statistics of majority voting}.
+\newblock {\it \bibinfo{journal}{Journal of the Royal Statistical Society}\/},
+  {\it \bibinfo{volume}{109}\/}, \bibinfo{pages}{53--57}.
+%Type = Article
+\bibitem[{Shapley \& Shubik(1954)}]{Shapley1954}
+\bibinfo{author}{Shapley, L.~S.}, \& \bibinfo{author}{Shubik, M.}
+  (\bibinfo{year}{1954}).
+\newblock \bibinfo{title}{A method of evaluating the distribution of power in a
+  committee system}.
+\newblock {\it \bibinfo{journal}{American Political Science Review}\/},  {\it
+  \bibinfo{volume}{48}\/}, \bibinfo{pages}{787--792}.
+%Type = Article
+\bibitem[{Strand(2003)}]{Strand2003}
+\bibinfo{author}{Strand, J.~R.} (\bibinfo{year}{2003}).
+\newblock \bibinfo{title}{Measuring voting power in an international
+  institution: the united states and the inter-american development bank}.
+\newblock {\it \bibinfo{journal}{Economics of Governance}\/},  {\it
+  \bibinfo{volume}{4}\/}, \bibinfo{pages}{19--36}.
+%Type = Article
+\bibitem[{Strand \& Rapkin(2005)}]{Strand2005}
+\bibinfo{author}{Strand, J.~R.}, \& \bibinfo{author}{Rapkin, D.~P.}
+  (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{Regionalizing multilateralism: Estimating the power
+  of potential regional voting blocs in the imf}.
+\newblock {\it \bibinfo{journal}{International Interactions}\/},  {\it
+  \bibinfo{volume}{31}\/}, \bibinfo{pages}{15--54}.
+%Type = Techreport
+\bibitem[{Uno(2003)}]{Uno2003}
+\bibinfo{author}{Uno, T.} (\bibinfo{year}{2003}).
+\newblock {\it \bibinfo{title}{Efficient Computation of Power Indices for
+  Weighted Majority Games}\/}.
+\newblock \bibinfo{type}{Technical Report} National Institute of Informatics
+  \bibinfo{address}{Tokyo}.
+
+\end{thebibliography}

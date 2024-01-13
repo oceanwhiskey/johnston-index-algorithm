@@ -1,0 +1,43 @@
+\documentclass[standalone]{elsarticle}
+%My Packages
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+\usepackage{thmtools}
+
+ \usepackage{pgfplots}
+    \usepackage{pgfplotstable}
+  \pgfplotsset{compat=1.13}
+
+ %Einheiten
+  \usepackage[binary-units=true]{siunitx} 
+
+\pagestyle{empty}
+\begin{document}
+
+\begin{figure}
+\begin{tikzpicture}
+    \begin{axis}
+    [
+      width=0.5\textwidth,
+%      title={},
+      xlabel={$n$},
+      ylabel={time in \si{s}},
+      grid=major,
+%      legend entries={\texttt{Enum1},\texttt{Enum2},\texttt{Efficient}, \texttt{Strand}},
+      legend entries={Efficient},      
+      legend style={legend pos=north west}, %outer north east
+      y tick label style={
+      	/pgf/number format/.cd,
+      		fixed,
+      		fixed zerofill,
+      		precision=0,
+      	/tikz/.cd
+      },
+%      scaled y ticks={base 10:2},      
+    ]
+\addplot[black,  mark size=1, mark=x,only marks] table[x=n,y=time]{Mehrheitsspiel_n_Efficient.txt};   
+    \end{axis}
+\end{tikzpicture}
+\end{figure}
+
+
+\end{document}
